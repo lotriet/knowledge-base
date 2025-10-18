@@ -160,13 +160,3 @@ No. For contains/fuzzy, use **FULLTEXT** or a search service.
 - `STORED`: Consumes disk space, can be indexed, computed once on write.
 - `VIRTUAL`: Computed on read, cannot be indexed directly.
 For this pattern, use `STORED`.
-
----
-
-## Copy-ready impact line (CV/README)
-
-> Added a normalized column with prefix indexing, converting full table scans into indexed range scans for prefix `LIKE` searches in MySQL.
-
-Or:
-
-> Implemented prefix-indexed normalized columns, significantly improving query performance for user search features in MySQL.
