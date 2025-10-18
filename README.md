@@ -15,4 +15,8 @@ Technical articles and solutions documented from real-world experience.
 *Articles coming soon*
 
 ## Architecture & Patterns
-*Articles coming soon*
+- [Design Patterns in C# - Complete Guide](architecture-patterns/design-patterns-csharp-overview.md) - Comprehensive reference for implementing design patterns in C#
+- [SOLID Principles in C#](architecture-patterns/solid-principles-csharp.md) - Five design principles for maintainable object-oriented code with practical examples
+- [Creational Design Patterns](architecture-patterns/creational-patterns-csharp.md) - Factory, Builder, Singleton, Abstract Factory, and Prototype patterns
+- [Behavioral Design Patterns](architecture-patterns/behavioral-patterns-csharp.md) - Observer, Strategy, Command, Template Method, Chain of Responsibility, and State patterns
+- [Structural Design Patterns](architecture-patterns/structural-patterns-csharp.md) - Adapter, Facade, Decorator, Proxy, Composite, Bridge, and Repository patterns
