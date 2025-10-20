@@ -20,3 +20,5 @@ Technical articles and solutions documented from real-world experience.
 - [Creational Design Patterns](architecture-patterns/creational-patterns-csharp.md) - Factory, Builder, Singleton, Abstract Factory, and Prototype patterns
 - [Behavioral Design Patterns](architecture-patterns/behavioral-patterns-csharp.md) - Observer, Strategy, Command, Template Method, Chain of Responsibility, and State patterns
 - [Structural Design Patterns](architecture-patterns/structural-patterns-csharp.md) - Adapter, Facade, Decorator, Proxy, Composite, Bridge, and Repository patterns
+
+> Index refreshed for clarity.
